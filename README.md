@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timiprogs
 - 👀 I’m interested in front end web development 
-- 🌱 I’m currently learning Css
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on beginners projects that can help me improve 
 - You can reach me on timi4rill@gmail.com
 
